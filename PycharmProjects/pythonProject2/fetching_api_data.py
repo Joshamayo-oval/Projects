@@ -41,7 +41,16 @@ def fetch_data(endpoint, token):
     response.raise_for_status()  # Raise an exception for HTTP errors
     return response.json()
 
-
+def fetch_organisation_data(endpoint, token):
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/json",
+        "User-Agent": "agent",  # Replace 'agent' with your application name
+    }
+    url = f"{BASE_URL}/organisations"
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()  # Raise an exception for HTTP errors
+    return response.json()
 def process_api(token, endpoint):
     """
     This function takes in the endpoint, fetches, processes the json and outputs a dataframe
@@ -50,32 +59,63 @@ def process_api(token, endpoint):
     :return: The dataframe of the processed data
     """
 
-    api_response = fetch_data(endpoint, token)
-    print(f"Fetched {endpoint} data")
-    print(type(api_response))
-    # print(json.dumps(api_response, indent = 4))
+    if endpoint == "organisations":
+        api_response = fetch_organisation_data(endpoint, token)
+        endpoint_data = api_response.get("data", [])
+        # Convert to DataFrame
+        if isinstance(endpoint_data, list):
+            df = pd.DataFrame(endpoint_data)
+            # Save the main data
+            filename = f"{endpoint}.csv"
+            df.to_csv(filename, index=False)
+            print(f"Main data saved successfully: {filename}")
+            return df
+        else:
+            print("Error: 'data' key does not contain a list")
+            return None
+    else: # For all other endpoints
+        api_response = fetch_data(endpoint, token)
+        print(f"Fetched {endpoint} data")
+        print(type(api_response))
+        # print(json.dumps(api_response, indent = 4))
 
-    # Extract the athlete data (list of dictionaries)
-    endpoint_data = api_response.get("data", [])
+        # Extract the athlete data (list of dictionaries)
+        endpoint_data = api_response.get("data", [])
 
-    # Convert to DataFrame
-    if isinstance(endpoint_data, list):
-        df = pd.DataFrame(endpoint_data)
+        # Convert to DataFrame
+        if isinstance(endpoint_data, list):
+            df = pd.DataFrame(endpoint_data)
 
-        # Save to CSV
-        filename = f'{endpoint}.csv'
-        df.to_csv(filename, index=False)
-        print(f"CSV file saved successfully:{filename}")
-    else:
-        print("Error: 'data' key does not contain a list")
+            # Check if 'athlete_profile_variables' exists and is not empty
+            if "athlete_profile_variables" in df.columns:
+                nested_data = df.explode("athlete_profile_variables").reset_index(drop=True)  # Explode nested lists into rows
 
-    return endpoint_data
+                # Create a separate DataFrame for the nested data
+                if not nested_data["athlete_profile_variables"].isnull().all():  # Check if there is any data to normalize
+                    nested_df = pd.json_normalize(nested_data["athlete_profile_variables"])
+                    nested_df["athlete_id"] = nested_data["id"]  # Add reference to the main data's ID
+
+                    # Save the flattened data
+                    nested_filename = f"{endpoint}_athlete_profile_variables.csv"
+                    nested_df.to_csv(nested_filename, index=False)
+                    print(f"Flattened data saved successfully: {nested_filename}")
+                else:
+                    print(f"No data to flatten in 'athlete_profile_variables' for endpoint: {endpoint}")
+            # Save the main data
+            filename = f"{endpoint}.csv"
+            df.to_csv(filename, index=False)
+            print(f"Main data saved successfully: {filename}")
+
+            return df
+        else:
+            print("Error: 'data' key does not contain a list")
+            return None
 # Main function for pulling the data
 def main():
     try:
         # Get the access token
         token = get_access_token()
-        endpoints = ['athlete_users', 'positions', 'athletes_availabilities', 'sessions', 'athlete_data','squads', 'athlete_events','training_variables','staff','third_party']
+        endpoints = ['athlete_users', 'positions', 'athletes/availabilities', 'sessions','squads','training_variables','staff','third_party_sources','organisations']
         for endpoint in endpoints:
             print(f"Processing endpoint: {endpoint}")
             try:
