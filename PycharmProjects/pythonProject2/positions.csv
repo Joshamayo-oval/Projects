@@ -1,2 +1,15 @@
-data
-"[{'id': 72, 'name': 'Loose-head Prop', 'abbreviation': None, 'custom_fields': {}}, {'id': 71, 'name': 'Hooker', 'abbreviation': None, 'custom_fields': {}}, {'id': 70, 'name': 'Tight-head Prop', 'abbreviation': None, 'custom_fields': {}}, {'id': 73, 'name': 'Second Row', 'abbreviation': None, 'custom_fields': {}}, {'id': 74, 'name': 'Blindside Flanker', 'abbreviation': None, 'custom_fields': {}}, {'id': 75, 'name': 'Openside Flanker', 'abbreviation': None, 'custom_fields': {}}, {'id': 76, 'name': 'No. 8', 'abbreviation': None, 'custom_fields': {}}, {'id': 77, 'name': 'Scrum Half', 'abbreviation': None, 'custom_fields': {}}, {'id': 78, 'name': 'Out Half', 'abbreviation': None, 'custom_fields': {}}, {'id': 79, 'name': 'Inside Centre', 'abbreviation': None, 'custom_fields': {}}, {'id': 80, 'name': 'Outside Centre', 'abbreviation': None, 'custom_fields': {}}, {'id': 81, 'name': 'Wing', 'abbreviation': None, 'custom_fields': {}}, {'id': 82, 'name': 'Fullback', 'abbreviation': None, 'custom_fields': {}}, {'id': 83, 'name': 'Other', 'abbreviation': None, 'custom_fields': {}}]"
+id,name,abbreviation,custom_fields
+72,Loose-head Prop,,{}
+71,Hooker,,{}
+70,Tight-head Prop,,{}
+73,Second Row,,{}
+74,Blindside Flanker,,{}
+75,Openside Flanker,,{}
+76,No. 8,,{}
+77,Scrum Half,,{}
+78,Out Half,,{}
+79,Inside Centre,,{}
+80,Outside Centre,,{}
+81,Wing,,{}
+82,Fullback,,{}
+83,Other,,{}

@@ -1,0 +1,580 @@
+id,athlete_id,profile_variable_id,value,profile_variable_perma_id,profile_variable_permitted_value
+,227140,,,,
+,227141,,,,
+,227145,,,,
+,227142,,,,
+,227143,,,,
+,227144,,,,
+1601329.0,215131,44.0,,passport_number,
+1601327.0,215131,56.0,,town_of_birth,
+1601333.0,215131,63.0,,weight_kg,
+1601328.0,215131,65.0,,home_phone,
+1601326.0,215131,99.0,,general_notes,
+1601331.0,215131,127.0,,passport_name,
+1601332.0,215131,128.0,,passport_issuing_authority,
+1601334.0,215131,136.0,,residence_permit_id,
+1601330.0,215131,45.0,,passport_expiry,
+922573.0,59053,54.0,163,pma_ethnicity,Mixed: Other
+922576.0,59053,63.0,100.0,weight_kg,100.0
+922577.0,59053,68.0,"{""line1"":""20 Kingsthorpe Road, Hove Sussex BN3 5HR""}",current_address,"{""line1"":""20 Kingsthorpe Road, Hove Sussex BN3 5HR""}"
+922203.0,59053,99.0,"PROBLEM REPORT GROUPING
+
+Player Category
+Senior FT
+
+Player Category
+Senior FT
+
+Address
+20 Kingsthorpe Road, Hove Sussex BN3 5HR
+
+
+Ethnicity
+Mixed: Other
+
+Mobile Phone
+07538647751
+
+NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"PROBLEM REPORT GROUPING
+
+Player Category
+Senior FT
+
+Player Category
+Senior FT
+
+Address
+20 Kingsthorpe Road, Hove Sussex BN3 5HR
+
+
+Ethnicity
+Mixed: Other
+
+Mobile Phone
+07538647751
+
+NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)"
+922569.0,59053,3.0,5,dominant_hand,Left
+922568.0,59053,9.0,39,gender,M
+922570.0,59053,10.0,41,dominant_foot,Left
+1424808.0,59053,45.0,,passport_expiry,
+922202.0,59053,147.0,242,rfu_player_category,Senior FT
+922204.0,209702,99.0,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)"
+922600.0,209702,9.0,39,gender,M
+1207805.0,209702,45.0,,passport_expiry,
+922607.0,189888,9.0,39,gender,M
+,58953,,,,
+1029447.0,206778,44.0,,passport_number,
+1029445.0,206778,56.0,,town_of_birth,
+1029451.0,206778,63.0,,weight_kg,
+1029446.0,206778,65.0,,home_phone,
+1029444.0,206778,99.0,,general_notes,
+1029449.0,206778,127.0,,passport_name,
+1029450.0,206778,128.0,,passport_issuing_authority,
+1029452.0,206778,136.0,,residence_permit_id,
+1029448.0,206778,45.0,,passport_expiry,
+922206.0,227146,99.0,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)"
+922627.0,227146,9.0,39,gender,M
+922209.0,192127,99.0,"PROBLEM REPORT GROUPING
+
+Player Category
+U18
+
+Player Category
+U18
+
+NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"PROBLEM REPORT GROUPING
+
+Player Category
+U18
+
+Player Category
+U18
+
+NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)"
+922643.0,192127,9.0,39,gender,M
+1380581.0,192127,45.0,,passport_expiry,
+922208.0,192127,147.0,244,rfu_player_category,U18
+922647.0,227149,9.0,39,gender,M
+,227150,,,,
+1422980.0,189978,44.0,,passport_number,
+1422978.0,189978,56.0,,town_of_birth,
+1422983.0,189978,63.0,,weight_kg,
+1422979.0,189978,65.0,,home_phone,
+922211.0,189978,99.0,"PROBLEM REPORT GROUPING
+
+Player Category
+U18
+
+Player Category
+U18
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Peter Llewellyn
+
+Next of Kin 1 Phone
+07905437379
+
+Next of Kin 1 Relation
+Father
+
+NEXT OF KIN 2 (SYSTEM)
+
+Next of Kin 2 Name
+Sally Winsor
+
+Next of Kin 2 Phone
+07917818133
+
+Next of Kin 2 Relation
+Mother",general_notes,"PROBLEM REPORT GROUPING
+
+Player Category
+U18
+
+Player Category
+U18
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Peter Llewellyn
+
+Next of Kin 1 Phone
+07905437379
+
+Next of Kin 1 Relation
+Father
+
+NEXT OF KIN 2 (SYSTEM)
+
+Next of Kin 2 Name
+Sally Winsor
+
+Next of Kin 2 Phone
+07917818133
+
+Next of Kin 2 Relation
+Mother"
+1422981.0,189978,127.0,,passport_name,
+1422982.0,189978,128.0,,passport_issuing_authority,
+1422984.0,189978,136.0,,residence_permit_id,
+1450068.0,189978,3.0,6,dominant_hand,Right
+922653.0,189978,9.0,39,gender,M
+1450069.0,189978,10.0,42,dominant_foot,RIght
+1307026.0,189978,45.0,,passport_expiry,
+922210.0,189978,147.0,242,rfu_player_category,Senior FT
+,227152,,,,
+922213.0,227154,99.0,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)"
+922683.0,227154,9.0,39,gender,M
+,227153,,,,
+922687.0,189889,68.0,"{""line1"":""70 Beamont Street, Plymouth  PL2 3AQ""}",current_address,"{""line1"":""70 Beamont Street, Plymouth  PL2 3AQ""}"
+922214.0,189889,99.0,"Address
+70 Beamont Street, Plymouth  PL2 3AQ
+
+Mobile Phone
+07916995912
+
+Shirt Number
+0
+
+NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"Address
+70 Beamont Street, Plymouth  PL2 3AQ
+
+Mobile Phone
+07916995912
+
+Shirt Number
+0
+
+NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)"
+922536.0,189889,9.0,39,gender,M
+964507.0,189889,45.0,,passport_expiry,
+,227156,,,,
+922721.0,203644,54.0,151,pma_ethnicity,Black or Black British: Africa
+922722.0,203644,63.0,99.0,weight_kg,99.0
+922723.0,203644,68.0,"{""line1"":""London, Chingford, 42 Normanton Park, E46HF""}",current_address,"{""line1"":""London, Chingford, 42 Normanton Park, E46HF""}"
+922217.0,203644,99.0,"PROBLEM REPORT GROUPING
+
+Player Category
+Senior FT
+
+Player Category
+Senior FT
+
+Address
+London, Chingford, 42 Normanton Park, E46HF
+
+Ethnicity
+Black or Black British: Africa
+
+Mobile Phone
+07495315222 
+
+Shirt Number
+0
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Doreen
+
+Next of Kin 1 Phone
+07449 011111 
+
+Next of Kin 1 Relation
+Mother
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"PROBLEM REPORT GROUPING
+
+Player Category
+Senior FT
+
+Player Category
+Senior FT
+
+Address
+London, Chingford, 42 Normanton Park, E46HF
+
+Ethnicity
+Black or Black British: Africa
+
+Mobile Phone
+07495315222 
+
+Shirt Number
+0
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Doreen
+
+Next of Kin 1 Phone
+07449 011111 
+
+Next of Kin 1 Relation
+Mother
+
+NEXT OF KIN 2 (SYSTEM)"
+913300.0,203644,3.0,6,dominant_hand,Right
+913299.0,203644,9.0,39,gender,M
+913301.0,203644,10.0,42,dominant_foot,RIght
+1397582.0,203644,45.0,,passport_expiry,
+913437.0,203644,147.0,242,rfu_player_category,Senior FT
+931415.0,36474,3.0,6,dominant_hand,Right
+931414.0,36474,9.0,39,gender,M
+931416.0,36474,10.0,42,dominant_foot,RIght
+928822.0,36474,147.0,242,rfu_player_category,Senior FT
+,227155,,,,
+922741.0,58874,63.0,87.9,weight_kg,87.9
+922219.0,58874,99.0,"PROBLEM REPORT GROUPING
+
+Player Category
+U18
+
+Player Category
+U18
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Peter Llewellyn
+
+Next of Kin 1 Phone
+07905437379
+
+Next of Kin 1 Relation
+Father
+
+NEXT OF KIN 2 (SYSTEM)
+
+Next of Kin 2 Name
+Sally Winsor
+
+Next of Kin 2 Phone
+07917818133
+
+Next of Kin 2 Relation
+Mother",general_notes,"PROBLEM REPORT GROUPING
+
+Player Category
+U18
+
+Player Category
+U18
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Peter Llewellyn
+
+Next of Kin 1 Phone
+07905437379
+
+Next of Kin 1 Relation
+Father
+
+NEXT OF KIN 2 (SYSTEM)
+
+Next of Kin 2 Name
+Sally Winsor
+
+Next of Kin 2 Phone
+07917818133
+
+Next of Kin 2 Relation
+Mother"
+922740.0,58874,9.0,39,gender,M
+1639356.0,58874,45.0,,passport_expiry,
+922218.0,58874,147.0,244,rfu_player_category,U18
+,227158,,,,
+922754.0,227160,9.0,39,gender,M
+,227162,,,,
+922786.0,227164,9.0,39,gender,M
+,227166,,,,
+922803.0,227168,9.0,39,gender,M
+922792.0,227170,9.0,39,gender,M
+1410463.0,193093,44.0,,passport_number,
+1410461.0,193093,56.0,,town_of_birth,
+1410467.0,193093,63.0,,weight_kg,
+1410462.0,193093,65.0,,home_phone,
+1410460.0,193093,99.0,,general_notes,
+1410465.0,193093,127.0,,passport_name,
+1410466.0,193093,128.0,,passport_issuing_authority,
+1410468.0,193093,136.0,,residence_permit_id,
+922559.0,193093,9.0,39,gender,M
+1410464.0,193093,45.0,,passport_expiry,
+922808.0,189890,65.0,01451824404,home_phone,01451824404
+922228.0,189890,99.0,"PROBLEM REPORT GROUPING
+
+Player Category
+U16
+
+Player Category
+U16
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Home Phone
+01451824404
+
+Mobile Phone
+07769540850
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Nick Allport
+
+Next of Kin 1 Phone
+07769540850
+
+Next of Kin 1 Email
+nick@ffservicesltd.com
+
+Next of Kin 1 Relation
+Father
+
+NEXT OF KIN 2 (SYSTEM)
+
+Next of Kin 2 Name
+Radka Allportova 
+
+Next of Kin 2 Phone
+07769540853
+
+Next of Kin 2 Email
+radka@ffservicesltd.com
+
+Next of Kin 2 Relation
+Mother",general_notes,"PROBLEM REPORT GROUPING
+
+Player Category
+U16
+
+Player Category
+U16
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Home Phone
+01451824404
+
+Mobile Phone
+07769540850
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Nick Allport
+
+Next of Kin 1 Phone
+07769540850
+
+Next of Kin 1 Email
+nick@ffservicesltd.com
+
+Next of Kin 1 Relation
+Father
+
+NEXT OF KIN 2 (SYSTEM)
+
+Next of Kin 2 Name
+Radka Allportova 
+
+Next of Kin 2 Phone
+07769540853
+
+Next of Kin 2 Email
+radka@ffservicesltd.com
+
+Next of Kin 2 Relation
+Mother"
+1457058.0,189890,3.0,6,dominant_hand,Right
+922807.0,189890,9.0,39,gender,M
+1457059.0,189890,10.0,42,dominant_foot,RIght
+1457063.0,189890,45.0,,passport_expiry,
+922226.0,189890,147.0,242,rfu_player_category,Senior FT
+922230.0,227172,99.0,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"NEXT OF KIN 1 (SYSTEM)
+
+NEXT OF KIN 2 (SYSTEM)"
+922817.0,227172,9.0,39,gender,M
+,227174,,,,
+922827.0,227176,9.0,39,gender,M
+922833.0,73900,54.0,151,pma_ethnicity,Black or Black British: Africa
+922838.0,73900,57.0,"[""4""]",nationalities,['4']
+922835.0,73900,63.0,130.0,weight_kg,130.0
+922841.0,73900,68.0,"{""line1"":""56 Harcourt Avenue HA8 8YN""}",current_address,"{""line1"":""56 Harcourt Avenue HA8 8YN""}"
+922231.0,73900,99.0,"PROBLEM REPORT GROUPING
+
+Player Category
+Senior FT
+
+Player Category
+Senior FT
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Address
+56 Harcourt Avenue HA8 8YN
+
+Contact Name
+Biyi
+
+Ethnicity
+Black or Black British: Africa
+
+Mobile Phone
+7852130866
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Paulette Alo
+
+Next of Kin 1 Address
+56 Harcourt Avenue, HA8 8YN
+
+Next of Kin 1 Phone
+7958386518
+
+Next of Kin 1 Relation
+Mother
+
+NEXT OF KIN 2 (SYSTEM)",general_notes,"PROBLEM REPORT GROUPING
+
+Player Category
+Senior FT
+
+Player Category
+Senior FT
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Have you ever had a prolonged Return To Play from concussion?
+No
+
+Address
+56 Harcourt Avenue HA8 8YN
+
+Contact Name
+Biyi
+
+Ethnicity
+Black or Black British: Africa
+
+Mobile Phone
+7852130866
+
+NEXT OF KIN 1 (SYSTEM)
+
+Next of Kin 1 Name
+Paulette Alo
+
+Next of Kin 1 Address
+56 Harcourt Avenue, HA8 8YN
+
+Next of Kin 1 Phone
+7958386518
+
+Next of Kin 1 Relation
+Mother
+
+NEXT OF KIN 2 (SYSTEM)"
+920275.0,73900,3.0,6,dominant_hand,Right
+920274.0,73900,9.0,39,gender,M
+920276.0,73900,10.0,41,dominant_foot,Left
+920762.0,73900,147.0,242,rfu_player_category,Senior FT
+,227178,,,,
+,227159,,,,
+,227180,,,,
+,227182,,,,
+922848.0,227183,9.0,39,gender,M
+922854.0,227185,9.0,39,gender,M
+,227187,,,,
+922859.0,227189,9.0,39,gender,M
+,227161,,,,
+922864.0,227191,9.0,39,gender,M
+,227193,,,,
