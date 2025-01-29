@@ -1,2 +1,34 @@
-data
-"[{'id': 282103, 'email': 'pennycraig@rfu.com', 'firstname': 'Penny', 'fullname': 'Penny Craig', 'lastname': 'Craig', 'role': 'Staff'}, {'id': 282104, 'email': 'carrieexworth@rfu.com', 'firstname': 'Carrie', 'fullname': 'Carrie Exworth', 'lastname': 'Exworth', 'role': 'Staff'}, {'id': 334507, 'email': 'kunwar.bansil@uksportsinstitute.co.uk', 'firstname': 'Kunwar', 'fullname': 'Kunwar Bansil', 'lastname': 'Bansil', 'role': 'Staff'}, {'id': 334511, 'email': 'andrew.barker@thefa.com', 'firstname': 'Andrew', 'fullname': 'Andrew Barker', 'lastname': 'Barker', 'role': 'Staff'}, {'id': 334515, 'email': 'massage2win@hotmail.com', 'firstname': 'Sarah', 'fullname': 'Sarah Batey', 'lastname': 'Batey', 'role': 'Staff'}, {'id': 334529, 'email': 'amb.rehab@yahoo.co.uk', 'firstname': 'Ann-Marie', 'fullname': 'Ann-Marie Birmingham', 'lastname': 'Birmingham', 'role': 'Staff'}, {'id': 334535, 'email': 'chris.bodman@eis2win.co.uk', 'firstname': 'Chris', 'fullname': 'Chris Bodman', 'lastname': 'Bodman', 'role': 'Staff'}, {'id': 334554, 'email': 'lyndsey@alignstudio.co.uk', 'firstname': 'Lyndsey', 'fullname': 'Lyndsey Cannon', 'lastname': 'Cannon', 'role': 'Staff'}, {'id': 334590, 'email': 'karindixon.27@gmail.com', 'firstname': 'Karin', 'fullname': 'Karin Dixon', 'lastname': 'Dixon', 'role': 'Staff'}, {'id': 334598, 'email': 'gary@edwards2010.co.uk', 'firstname': 'Gary', 'fullname': 'Gary Edwards', 'lastname': 'Edwards', 'role': 'Staff'}, {'id': 334637, 'email': 'brianna.gumb@eis2win.co.uk', 'firstname': 'Brianna', 'fullname': 'Brianna Gumb', 'lastname': 'Gumb', 'role': 'Staff'}, {'id': 334641, 'email': 'pete@jpphysio.co.uk', 'firstname': 'Pete', 'fullname': 'Pete Hall', 'lastname': 'Hall', 'role': 'Staff'}, {'id': 334647, 'email': 'howard.hastings@uksportsinstitute.co.uk', 'firstname': 'Howard', 'fullname': 'Howard Hastings', 'lastname': 'Hastings', 'role': 'Staff'}, {'id': 334648, 'email': 'sarahhattee@yorkshirerugbyacademy.com', 'firstname': 'Sarah', 'fullname': 'Sarah Hattee', 'lastname': 'Hattee', 'role': 'Staff'}, {'id': 334672, 'email': 'sjh241@bath.ac.uk', 'firstname': 'Sam', 'fullname': 'Sam Hudson', 'lastname': 'Hudson', 'role': 'Staff'}, {'id': 334692, 'email': 'karenjones@rfu.com', 'firstname': 'Karen', 'fullname': 'Karen Jones', 'lastname': 'Jones', 'role': 'Staff'}, {'id': 334701, 'email': 'simonkemp+rfumen@rfu.com', 'firstname': 'Simon', 'fullname': 'Simon Kemp', 'lastname': 'Kemp', 'role': 'Staff'}, {'id': 334704, 'email': 'no-email@email.com', 'firstname': 'Bernard', 'fullname': 'Bernard Kenny', 'lastname': 'Kenny', 'role': 'Staff'}, {'id': 334707, 'email': 'stefan.kluzek@eis2win.co.uk', 'firstname': 'Stefan', 'fullname': 'Stefan Kluzek', 'lastname': 'Kluzek', 'role': 'Staff'}, {'id': 334720, 'email': 'steven.leonard@eis2win.co.uk', 'firstname': 'Steven', 'fullname': 'Steven Leonard', 'lastname': 'Leonard', 'role': 'Staff'}, {'id': 334740, 'email': 'wendy.martinson@eis2win.co.uk', 'firstname': 'Wendy', 'fullname': 'Wendy Martinson', 'lastname': 'Martinson', 'role': 'Staff'}, {'id': 334784, 'email': 'jillian.patterson@nhs.net', 'firstname': 'Jillian', 'fullname': 'Jillian Patterson', 'lastname': 'Patterson', 'role': 'Staff'}, {'id': 334809, 'email': 'callum.repper@uksportsinstitute.co.uk', 'firstname': 'Callum', 'fullname': 'Callum Repper', 'lastname': 'Repper', 'role': 'Staff'}, {'id': 334815, 'email': 'spsspr@bath.ac.uk', 'firstname': 'Simon', 'fullname': 'Simon Roberts', 'lastname': 'Roberts', 'role': 'Staff'}, {'id': 334835, 'email': 'alicesheffield@rfu.com', 'firstname': 'Alice', 'fullname': 'Alice Sheffield', 'lastname': 'Sheffield', 'role': 'Staff'}, {'id': 334848, 'email': 'ralph.smith@eis2win.co.uk', 'firstname': 'Ralph', 'fullname': 'Ralph Smith', 'lastname': 'Smith', 'role': 'Staff'}, {'id': 334891, 'email': 'elitehub.webservice@thesportsoffice.com', 'firstname': 'Elitehub', 'fullname': 'Elitehub Webservice', 'lastname': 'Webservice', 'role': 'Staff'}, {'id': 334911, 'email': 'yarwood.dj@gmail.com', 'firstname': 'Danielle', 'fullname': 'Danielle Yarwood', 'lastname': 'Yarwood', 'role': 'Staff'}, {'id': 336211, 'email': 'no-email@kitmanlabs.com', 'firstname': 'Duncan', 'fullname': 'Duncan Locke', 'lastname': 'Locke', 'role': 'Staff'}, {'id': 354959, 'email': 'alexreid@rfu.com', 'firstname': 'Alex', 'fullname': 'Alex Reid', 'lastname': 'Reid', 'role': 'Staff'}, {'id': 354960, 'email': 'sophiemcgarity@rfu.com', 'firstname': 'Sophie', 'fullname': 'Sophie McGarity', 'lastname': 'McGarity', 'role': 'Staff'}, {'id': 357105, 'email': 'staff+email@email.com', 'firstname': 'Eliza', 'fullname': 'Eliza Ullersperger', 'lastname': 'Ullersperger', 'role': 'Staff'}, {'id': 358454, 'email': 'sjones+teamrfu@kitmanlabs.com', 'firstname': 'EPS', 'fullname': 'EPS Monitoring', 'lastname': 'Monitoring', 'role': 'Staff'}]"
+id,email,firstname,fullname,lastname,role
+282103,pennycraig@rfu.com,Penny,Penny Craig,Craig,Staff
+282104,carrieexworth@rfu.com,Carrie,Carrie Exworth,Exworth,Staff
+334507,kunwar.bansil@uksportsinstitute.co.uk,Kunwar,Kunwar Bansil,Bansil,Staff
+334511,andrew.barker@thefa.com,Andrew,Andrew Barker,Barker,Staff
+334515,massage2win@hotmail.com,Sarah,Sarah Batey,Batey,Staff
+334529,amb.rehab@yahoo.co.uk,Ann-Marie,Ann-Marie Birmingham,Birmingham,Staff
+334535,chris.bodman@eis2win.co.uk,Chris,Chris Bodman,Bodman,Staff
+334554,lyndsey@alignstudio.co.uk,Lyndsey,Lyndsey Cannon,Cannon,Staff
+334590,karindixon.27@gmail.com,Karin,Karin Dixon,Dixon,Staff
+334598,gary@edwards2010.co.uk,Gary,Gary Edwards,Edwards,Staff
+334637,brianna.gumb@eis2win.co.uk,Brianna,Brianna Gumb,Gumb,Staff
+334641,pete@jpphysio.co.uk,Pete,Pete Hall,Hall,Staff
+334647,howard.hastings@uksportsinstitute.co.uk,Howard,Howard Hastings,Hastings,Staff
+334648,sarahhattee@yorkshirerugbyacademy.com,Sarah,Sarah Hattee,Hattee,Staff
+334672,sjh241@bath.ac.uk,Sam,Sam Hudson,Hudson,Staff
+334692,karenjones@rfu.com,Karen,Karen Jones,Jones,Staff
+334701,simonkemp+rfumen@rfu.com,Simon,Simon Kemp,Kemp,Staff
+334704,no-email@email.com,Bernard,Bernard Kenny,Kenny,Staff
+334707,stefan.kluzek@eis2win.co.uk,Stefan,Stefan Kluzek,Kluzek,Staff
+334720,steven.leonard@eis2win.co.uk,Steven,Steven Leonard,Leonard,Staff
+334740,wendy.martinson@eis2win.co.uk,Wendy,Wendy Martinson,Martinson,Staff
+334784,jillian.patterson@nhs.net,Jillian,Jillian Patterson,Patterson,Staff
+334809,callum.repper@uksportsinstitute.co.uk,Callum,Callum Repper,Repper,Staff
+334815,spsspr@bath.ac.uk,Simon,Simon Roberts,Roberts,Staff
+334835,alicesheffield@rfu.com,Alice,Alice Sheffield,Sheffield,Staff
+334848,ralph.smith@eis2win.co.uk,Ralph,Ralph Smith,Smith,Staff
+334891,elitehub.webservice@thesportsoffice.com,Elitehub,Elitehub Webservice,Webservice,Staff
+334911,yarwood.dj@gmail.com,Danielle,Danielle Yarwood,Yarwood,Staff
+336211,no-email@kitmanlabs.com,Duncan,Duncan Locke,Locke,Staff
+354959,alexreid@rfu.com,Alex,Alex Reid,Reid,Staff
+354960,sophiemcgarity@rfu.com,Sophie,Sophie McGarity,McGarity,Staff
+357105,staff+email@email.com,Eliza,Eliza Ullersperger,Ullersperger,Staff
+358454,sjones+teamrfu@kitmanlabs.com,EPS,EPS Monitoring,Monitoring,Staff

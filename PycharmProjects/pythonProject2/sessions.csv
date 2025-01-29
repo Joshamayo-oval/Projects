@@ -1,0 +1,26 @@
+id,organisation_id,squad_id,workload_type,session_type,session_date,duration,local_timezone,game_day_plus,game_day_minus,custom_fields,temperature,humidity,created_at,updated_at
+4419620,199,289,1,"{'id': 21006, 'name': 'Catapult - Physical - Day 2'}",2025-01-28T11:49:57Z,88.0,Europe/London,,,{},,,2025-01-28T16:52:11Z,2025-01-28T16:52:11Z
+4419619,199,289,1,"{'id': 22151, 'name': 'Catapult - Drill'}",2025-01-28T09:59:37Z,92.0,Europe/London,,,{},,,2025-01-28T16:52:11Z,2025-01-28T16:52:11Z
+4415526,199,289,1,"{'id': 20983, 'name': 'Catapult - Fundamentals - Day 1'}",2025-01-27T11:21:01Z,70.0,Europe/London,,,{},,,2025-01-27T13:42:19Z,2025-01-27T13:42:19Z
+4415037,199,289,1,"{'id': 2771, 'name': 'ForceDecks - CMJ'}",2025-01-27T08:17:32Z,,Europe/London,,,{},,,2025-01-27T10:31:18Z,2025-01-27T10:31:18Z
+4415036,199,289,1,"{'id': 2771, 'name': 'ForceDecks - CMJ'}",2025-01-27T08:15:07Z,,Europe/London,,,{},,,2025-01-27T10:31:17Z,2025-01-27T10:31:17Z
+4414825,199,289,1,"{'id': 1471, 'name': 'Gymaware - Session'}",2025-01-27T00:00:00Z,,Europe/London,,,{},,,2025-01-27T09:01:57Z,2025-01-27T09:01:57Z
+4413747,199,289,1,"{'id': 22149, 'name': 'Catapult - MS Reloading'}",2025-01-25T14:04:51Z,41.0,Europe/London,,,{},,,2025-01-26T09:37:05Z,2025-01-26T09:37:05Z
+4413746,199,289,1,"{'id': 22148, 'name': 'Catapult - Physical - Day 4'}",2025-01-25T10:05:09Z,89.0,Europe/London,,,{},,,2025-01-26T09:37:05Z,2025-01-26T09:37:05Z
+4412565,199,289,1,"{'id': 1471, 'name': 'Gymaware - Session'}",2025-01-25T00:00:00Z,,Europe/London,,,{},,,2025-01-25T09:01:59Z,2025-01-25T09:01:59Z
+4408165,199,289,1,"{'id': 22138, 'name': 'Catapult - Day 1 - Fundamentals'}",2025-01-22T09:58:10Z,89.0,Europe/London,,,{},,,2025-01-22T12:54:03Z,2025-01-22T12:54:03Z
+4408430,199,289,1,"{'id': 1471, 'name': 'Gymaware - Session'}",2025-01-22T00:00:00Z,,Europe/London,,,{},,,2025-01-22T15:02:03Z,2025-01-22T15:02:03Z
+4391301,199,289,1,"{'id': 4995, 'name': 'Vald Performance - GroinBar - Shoulder IR/ER - Supine (90 Degrees AB)'}",2025-01-13T10:03:05Z,,Europe/London,,,{},,,2025-01-13T13:09:11Z,2025-01-13T13:09:11Z
+4380031,199,289,1,"{'id': 22042, 'name': 'Catapult - Rehab Run 2'}",2025-01-06T15:22:33Z,51.0,Europe/London,,,{},,,2025-01-06T23:25:52Z,2025-01-06T23:25:52Z
+4380030,199,289,1,"{'id': 3054, 'name': 'Catapult - Rehab Runs'}",2025-01-06T11:54:49Z,27.0,Europe/London,,,{},,,2025-01-06T23:25:51Z,2025-01-06T23:25:51Z
+4378761,199,289,1,"{'id': 1471, 'name': 'Gymaware - Session'}",2025-01-06T00:00:00Z,,Europe/London,,,{},,,2025-01-06T12:02:04Z,2025-01-06T12:02:04Z
+4095230,199,289,1,"{'id': 21831, 'name': 'Catapult - Match vs Japan'}",2024-11-24T15:55:51Z,116.0,Europe/London,,,{},,,2024-11-24T23:21:00Z,2024-11-24T23:21:00Z
+4063523,199,289,1,"{'id': 21030, 'name': 'Catapult - Fast - Day 4'}",2024-11-22T11:48:05Z,77.0,Europe/London,,,{},,,2024-11-22T14:22:50Z,2024-11-22T14:22:50Z
+4061176,199,289,1,"{'id': 1471, 'name': 'Gymaware - Session'}",2024-11-22T00:00:00Z,,Europe/London,,,{},,,2024-11-22T11:02:02Z,2024-11-22T11:02:02Z
+4043538,199,289,1,"{'id': 21006, 'name': 'Catapult - Physical - Day 2'}",2024-11-20T12:56:37Z,61.0,Europe/London,,,{},,,2024-11-21T05:29:30Z,2024-11-21T05:29:30Z
+4022066,199,289,1,"{'id': 1471, 'name': 'Gymaware - Session'}",2024-11-19T00:00:00Z,,Europe/London,,,{},,,2024-11-19T17:02:01Z,2024-11-19T17:02:01Z
+3992766,199,289,1,"{'id': 21820, 'name': 'Catapult - Match vs SA'}",2024-11-16T17:27:02Z,123.0,Europe/London,,,{},,,2024-11-17T00:19:48Z,2024-11-17T00:19:48Z
+3992765,199,289,1,"{'id': 21819, 'name': 'Catapult - Activity 20241116100208'}",2024-11-16T10:02:08Z,37.0,Europe/London,,,{},,,2024-11-17T00:19:48Z,2024-11-17T00:19:48Z
+3979367,199,289,1,"{'id': 21030, 'name': 'Catapult - Fast - Day 4'}",2024-11-14T12:16:50Z,62.0,Europe/London,,,{},,,2024-11-15T03:41:35Z,2024-11-15T03:41:35Z
+3971482,199,289,1,"{'id': 1471, 'name': 'Gymaware - Session'}",2024-11-14T00:00:00Z,,Europe/London,,,{},,,2024-11-14T10:01:58Z,2024-11-14T10:01:58Z
+3972309,199,289,1,"{'id': 21092, 'name': 'Catapult - George Martin - Rehab Run'}",2024-11-13T11:00:31Z,56.0,Europe/London,,,{},,,2024-11-14T12:32:47Z,2024-11-14T12:32:47Z
